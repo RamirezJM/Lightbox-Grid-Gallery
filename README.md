@@ -7,3 +7,5 @@ baguetteBox: https://github.com/feimosi/baguetteBox.js
 ![Static Badge](https://img.shields.io/badge/HTML5-%23f06529)
 ![Static Badge](https://img.shields.io/badge/CSS3-%232965f1)
 ![Static Badge](https://img.shields.io/badge/Javascript-%23f0db4f)
+
+<img src="./assets/images/screenshot.jpg" width=600>
